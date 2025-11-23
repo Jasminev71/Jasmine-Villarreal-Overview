@@ -23,7 +23,7 @@ Hi, I’m **Jasmine** (she/her) — a CS student and Software QA student buildin
 
 - 🎓 **Student:** CS undergrad at **SNHU** + Software QA certificate student at **Mountainland Technical College (MTECH)**  
 - 🧪 **QA Focus:** Test automation, exploratory testing, API testing, and CI/CD  
-- 💻 **Languages I use:** JavaScript, C++, Java (with a growing interest in C# for automation)  
+- 💻 **Languages I use:** JavaScript,Java (with a growing interest in C# for automation)  
 - 🚀 **Short-term goal:** Land my first QA/SDET role by combining strong fundamentals with real-world projects  
 - 📚 **Currently learning:** Playwright, AWS Cloud basics, GitHub Copilot, and Azure AI engineering concepts  
 
@@ -77,7 +77,7 @@ I love breaking things **on purpose** and then figuring out *why* they broke.
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,cs,python" />
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,python" />
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ I love breaking things **on purpose** and then figuring out *why* they broke.
 
 ## 🎯 What I’m Focusing on Next
 
-- ✅ Strengthening **Playwright + TypeScript** for UI automation  
+- ✅ Strengthening **Playwright + Javascript** for UI automation  
 - ✅ Building **API testing** and **Postman** collections  
 - ✅ Earning: GitHub Copilot, AWS Cloud/AI practitioner certs, and Azure AI Engineer (longer-term)  
 - ✅ Creating more **QA-focused repos**: performance testing, AI-assisted QA, and cross-browser testing demos  
